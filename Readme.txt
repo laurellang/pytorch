@@ -1,1 +1,1 @@
-记录2025-7-21至2025-8-1在同济大学上Python小学期课程的课程作业
+学习链接：https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.788.videopod.episodes&vd_source=502d0866d71d07402a036a1402732a21
